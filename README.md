@@ -5,7 +5,7 @@
 
 ### Team Members
 - Alexis Oduro-Domfe
--
+- Antonio Vazquez-Mackay
 
 
 ### Project Description
