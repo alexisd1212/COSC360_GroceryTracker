@@ -10,7 +10,7 @@
 
 ### Project Description
 
-Our site, -insert name- is a web application that aims to be a simple crowd-sourced grocery price tracker. Thus, it relies on its users to keep the database updated.
+Our site GroceryPriceTracker is a web application that aims to be a simple crowd-sourced grocery price tracker. Thus, it relies on its users to keep the database updated.
 The GroceryPriceTracker website will allow registered users to follow the costs of various goods at various retailers online. Unregistered users will be able to see currently-active pricing movements and view any general data. The goal is to create a service that allows users to track item pricing in real time, set alerts, and leave comments on products. There must be functionality for searching and sorting stuff. Furthermore, unregistered users must be able to view item pricing but not item information.
 
 
